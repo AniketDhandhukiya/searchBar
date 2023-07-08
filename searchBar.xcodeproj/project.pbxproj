@@ -17,6 +17,7 @@
 		C24E48BB2A593ACA001CE747 /* searchBarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C24E48BA2A593ACA001CE747 /* searchBarTests.swift */; };
 		C24E48C52A593ACA001CE747 /* searchBarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C24E48C42A593ACA001CE747 /* searchBarUITests.swift */; };
 		C24E48C72A593ACA001CE747 /* searchBarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C24E48C62A593ACA001CE747 /* searchBarUITestsLaunchTests.swift */; };
+		C24E48D42A593C10001CE747 /* TableViewCell1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C24E48D32A593C10001CE747 /* TableViewCell1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C24E48C02A593ACA001CE747 /* searchBarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = searchBarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C24E48C42A593ACA001CE747 /* searchBarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = searchBarUITests.swift; sourceTree = "<group>"; };
 		C24E48C62A593ACA001CE747 /* searchBarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = searchBarUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C24E48D32A593C10001CE747 /* TableViewCell1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				C24E48A22A593AC9001CE747 /* SceneDelegate.swift */,
 				C24E48A42A593AC9001CE747 /* ViewController.swift */,
 				C24E48A62A593AC9001CE747 /* Main.storyboard */,
+				C24E48D32A593C10001CE747 /* TableViewCell1.swift */,
 				C24E48AC2A593ACA001CE747 /* Assets.xcassets */,
 				C24E48AE2A593ACA001CE747 /* LaunchScreen.storyboard */,
 				C24E48B12A593ACA001CE747 /* Info.plist */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C24E48D42A593C10001CE747 /* TableViewCell1.swift in Sources */,
 				C24E48A52A593AC9001CE747 /* ViewController.swift in Sources */,
 				C24E48AB2A593AC9001CE747 /* searchBar.xcdatamodeld in Sources */,
 				C24E48A12A593AC9001CE747 /* AppDelegate.swift in Sources */,
